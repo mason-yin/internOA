@@ -13,13 +13,13 @@ public class HackerRank {
         consecutiveDifference.add(-2);
         consecutiveDifference.add(5);
         HackerRank hackerRank = new HackerRank();
-//        System.out.println(hackerRank.addNumbers(1.1f, 3.89f));
-//        System.out.println(hackerRank.addNumbers(2.3f, 1.9f));
-//        System.out.println(hackerRank.lastLetters("bat"));
-//        System.out.println(Arrays.deepToString(hackerRank.findBeforeMatrix(after)));
-//        System.out.println(hackerRank.countAnalogousArrays(consecutiveDifference, 3, 10));
-//        System.out.println(hackerRank.alaaddinTravel(new int[]{8,4,1,9,8,4,1,9}, new int[]{10,9,3,5,10,9,3}));
-//        System.out.println(hackerRank.countAnagramManipulation("ddcf", "cedk"));
+        System.out.println(hackerRank.addNumbers(1.1f, 3.89f));
+        System.out.println(hackerRank.addNumbers(2.3f, 1.9f));
+        System.out.println(hackerRank.lastLetters("bat"));
+        System.out.println(Arrays.deepToString(hackerRank.findBeforeMatrix(after)));
+        System.out.println(hackerRank.countAnalogousArrays(consecutiveDifference, 3, 10));
+        System.out.println(hackerRank.alaaddinTravel(new int[]{8,4,1,9,8,4,1,9}, new int[]{10,9,3,5,10,9,3}));
+        System.out.println(hackerRank.countAnagramManipulation("ddcf", "cedk"));
         System.out.println(hackerRank.starNumber("|***|**|**"));
     }
 
